@@ -1,0 +1,7 @@
+c:\users\жаксылыково\source\repos\Collection\Collection\bin\Debug\Collection.exe.config
+c:\users\жаксылыково\source\repos\Collection\Collection\bin\Debug\Collection.exe
+c:\users\жаксылыково\source\repos\Collection\Collection\bin\Debug\Collection.pdb
+c:\users\жаксылыково\source\repos\Collection\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+c:\users\жаксылыково\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+c:\users\жаксылыково\source\repos\Collection\Collection\obj\Debug\Collection.exe
+c:\users\жаксылыково\source\repos\Collection\Collection\obj\Debug\Collection.pdb
